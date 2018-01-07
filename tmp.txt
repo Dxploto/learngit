@@ -1,0 +1,2 @@
+This is a tmp .
+In order to test the use of Git
